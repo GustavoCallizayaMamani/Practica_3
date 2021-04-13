@@ -1,3 +1,2 @@
 # TE_practica_3
-Univ: Adan Eddy Paredes Barrionuevo 
-Materia Emergentes II
+Univ: Gustavo Callizaya Mamamni
